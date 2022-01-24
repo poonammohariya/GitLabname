@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-24T10:37:28 IST" name="Default suite" finished-at="2022-01-24T10:37:41 IST" duration-ms="12994">
+    <groups>
+    </groups>
+    <test started-at="2022-01-24T10:37:28 IST" name="Default test" finished-at="2022-01-24T10:37:41 IST" duration-ms="12994">
+      <class name="restassuredtestcases.AssignmentresponseCodeCheck">
+        <test-method signature="testGetListUser()[pri:1, instance:restassuredtestcases.AssignmentresponseCodeCheck@6a84a97d]" started-at="2022-01-24T10:37:28 IST" name="testGetListUser" finished-at="2022-01-24T10:37:32 IST" duration-ms="4058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetListUser -->
+        <test-method signature="testGetSingleUser()[pri:2, instance:restassuredtestcases.AssignmentresponseCodeCheck@6a84a97d]" started-at="2022-01-24T10:37:32 IST" name="testGetSingleUser" finished-at="2022-01-24T10:37:33 IST" duration-ms="990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSingleUser -->
+        <test-method signature="testGetSingleUserNotFound()[pri:3, instance:restassuredtestcases.AssignmentresponseCodeCheck@6a84a97d]" started-at="2022-01-24T10:37:33 IST" name="testGetSingleUserNotFound" finished-at="2022-01-24T10:37:34 IST" duration-ms="1004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSingleUserNotFound -->
+        <test-method signature="testGetlistResources()[pri:4, instance:restassuredtestcases.AssignmentresponseCodeCheck@6a84a97d]" started-at="2022-01-24T10:37:34 IST" name="testGetlistResources" finished-at="2022-01-24T10:37:35 IST" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetlistResources -->
+        <test-method signature="testGetSingleResources()[pri:5, instance:restassuredtestcases.AssignmentresponseCodeCheck@6a84a97d]" started-at="2022-01-24T10:37:35 IST" name="testGetSingleResources" finished-at="2022-01-24T10:37:36 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSingleResources -->
+        <test-method signature="testGetSingleResourcesNotFound()[pri:6, instance:restassuredtestcases.AssignmentresponseCodeCheck@6a84a97d]" started-at="2022-01-24T10:37:36 IST" name="testGetSingleResourcesNotFound" finished-at="2022-01-24T10:37:37 IST" duration-ms="987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSingleResourcesNotFound -->
+        <test-method signature="testGetDelayedResponse()[pri:7, instance:restassuredtestcases.AssignmentresponseCodeCheck@6a84a97d]" started-at="2022-01-24T10:37:37 IST" name="testGetDelayedResponse" finished-at="2022-01-24T10:37:41 IST" duration-ms="3960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetDelayedResponse -->
+      </class> <!-- restassuredtestcases.AssignmentresponseCodeCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
